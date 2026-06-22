@@ -7,6 +7,12 @@ surface the **problems you can solve for them.**
 > **This is a public overview.** The source code is **private and proprietary** —
 > © 2026 Mike Psaras, all rights reserved. Available for review on request.
 
+## Download
+
+Packaged **macOS** builds (a self-contained `.dmg` — no setup, no login) are published on this
+repo's **[Releases](https://github.com/mikepsaras/kip-showcase/releases)** page. The source stays
+private; the finished app is distributed here.
+
 ## The idea
 
 Most market tools rank companies by generic firmographics. Kip flips it: it models each company
